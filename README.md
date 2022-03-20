@@ -4,7 +4,7 @@ This project is about building a simple REST API with Python Django Rest Framewo
 ## requirements
 
 ```python
-pip install virtalenv
+pip install virtualenv
 ```
 
 ```python
